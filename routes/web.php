@@ -23,4 +23,4 @@ Route::get('register', function () {
 
 Route::get('login', function () {
     return view('Auth.login');
-});
+});   
